@@ -7,7 +7,8 @@ $this->title = 'My Yii Application';
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>branch master commit 01</h1>
+        <h1>branch master</h1>
+        <h2>commit 01</h2>
 
     </div>
 
